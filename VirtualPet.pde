@@ -1,13 +1,12 @@
 void setup()
 {
   size(800,800);
-  
+  background(54,148,199);
 }
 
 //Jellyfish!
 void draw()
 {
-  background(54,148,199);
 //variables
   float radiush = 325;
   float radiusv = 262.5;
